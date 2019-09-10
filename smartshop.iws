@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e9345c7-4b73-4b3c-ae0f-5aac2f4edbd2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/prapawity/smartshop/model/AnimalFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prapawity/smartshop/Controller/AnimalRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prapawity/smartshop/Controller/AnimalService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOP-Smart-Shop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SOP-Smart-Shop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smartshop.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/smartshop.ipr" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/smartshop.iws" beforeDir="false" afterPath="$PROJECT_DIR$/smartshop.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/prapawity/smartshop/SmartshopApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/prapawity/smartshop/SmartshopApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/prapawity/smartshop/model/AnimalFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/prapawity/smartshop/model/AnimalFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/prapawity/smartshop/model/Animals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/prapawity/smartshop/model/Animals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/prapawity/smartshop/model/ListPets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/prapawity/smartshop/model/ListPets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -40,6 +50,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.prapawity.smartshop.model" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -108,7 +123,8 @@
       <workItem from="1567323284951" duration="12051000" />
       <workItem from="1567390266859" duration="409000" />
       <workItem from="1567490822013" duration="135000" />
-      <workItem from="1567499084809" duration="1062000" />
+      <workItem from="1567499084809" duration="1246000" />
+      <workItem from="1567672534349" duration="22300000" />
     </task>
     <servers />
   </component>
